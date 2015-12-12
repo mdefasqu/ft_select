@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_bubble_sort_char_reverse.c                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mdezitte <mdezitte@student.42.fr>          +#+  +:+       +#+        */
+/*   By: mdefasqu <mdefasqu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2015/01/26 16:39:31 by mdezitte          #+#    #+#             */
-/*   Updated: 2015/03/24 12:25:33 by mdezitte         ###   ########.fr       */
+/*   Created: 2015/01/26 16:39:31 by mdefasqu          #+#    #+#             */
+/*   Updated: 2015/03/24 12:25:33 by mdefasqu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
